@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nafi
-- 👀 I’m interested in web developement, Game Dev, CyberSecurity, Android Development and graphic design
+- 👀 I’m interested in email, web developement, Game Dev, CyberSecurity, Android Development and graphic design
 - 🌱 I’m currently learning React and NodeJs
 - 💞️ I’m looking to collaborate on various applications based on the interests stated above :)
 - 📫 DM me here or mail me @ progratron100@gmail.com
