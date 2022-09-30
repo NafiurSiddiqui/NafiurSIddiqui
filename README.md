@@ -2,7 +2,7 @@
 - 👀 I’m into web developement with interests in Game Dev (ikr?) , CyberSecurity, Android Development and graphic design
 - 🌱 I’m currently learning and building projects with React, Redux and NextJs
 - 💞️ I’m open to collaborate on various websites, webApp
-- 📫 feel free to DM me in github or mail me @ progratron100@gmail.com :) or any of my social media platforms
+- 📫 feel free to DM me on github or email me @ progratron100@gmail.com :) / on any of my social media platforms
 
 <!---
 TheHunter808/TheHunter808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
