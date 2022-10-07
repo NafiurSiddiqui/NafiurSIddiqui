@@ -9,6 +9,7 @@ TheHunter808/TheHunter808 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-- Instagram: https://www.instagram.com/codeonjim.js/
+
 - Twitter: https://twitter.com/CodeOnLoop
 - LinkedIn: https://www.linkedin.com/in/nafiur-rahman-siddiqui-405b25210/
+- Instagram: https://www.instagram.com/codeonjim.js/
