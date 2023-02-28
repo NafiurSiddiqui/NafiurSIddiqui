@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nafi
-- 👀 I am a frontend developer and rolling on with sparkling dreams in my eyes. Eyes that fancy about building robots someday.
-- 🌱 I am building my portfolio and brushing off, tweaking the portfolio projects.
+- 👀 A frontend developer and rolling on with sparkling dreams in my eyes. Eyes that fancy about building robots someday.
+- 🌱 I am learning backend development now [2023]
 - 💞️ I’m open to collaborate on various websites, webApp.
 - 📫 feel free to DM me on github or email me @ progratron100@gmail.com or on any of my social media platforms.
 
