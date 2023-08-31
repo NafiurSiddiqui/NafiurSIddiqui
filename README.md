@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Love to build web applications and at war with bugs! I am one of those fellas who has "no life" and eat->code->sleep->repeat on an infinite loop until my processor shuts down.</p>
+<p align="left">Love to build web applications. At war with bugs. I am one of those fellas who has "no life". eat->code->suffer->code->sleep->repeat. An infinite loop until the power is drawn dead </p>
 
 ###
 
